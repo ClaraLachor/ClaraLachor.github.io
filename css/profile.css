@@ -19,6 +19,10 @@
 }
 
 .jumbotron{
-	background-image: url("img/background.jpeg");
-	background-size: cover;
+	background-image: url("https://ascensionkitchen.com/wp-content/uploads/2018/08/Rosemary-Argan-Oil-Hair-Mask-1.jpg");
+	background-size: 950px;
+}
+
+.display-5{
+	font-weight: bolder;
 }
